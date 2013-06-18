@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.1
-Release:          1
+Release:          2
 Summary:          Network representations of relationships in data
 Group:            Sciences/Mathematics
 License:          GPL-2
