@@ -7,7 +7,7 @@ Release:          2
 Summary:          Network representations of relationships in data
 Group:            Sciences/Mathematics
 License:          GPL-2
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-psych R-ellipse R-lavaan R-sem R-plyr 
 Requires:         R-RSVGTipsDevice R-tikzDevice R-fdrtool R-lavaan R-sem 
